@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navigasiBar {
+  background-color: brown;
+  color: whitesmoke;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: grey;
+  color: white;
+}
+
+img {
+  border-radius: 50%;
+}
+
+.profil {
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: 2px solid red;
+}
+
+.tentang {
+  height: 40vh;
+  background-color: brown;
+}
+
+.ikon {
+  width: 300px;
+  height: 30vh;
+}
+footer {
+  height: 10vh;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  border: 2px solid red;
+  align-items: center;
+}
